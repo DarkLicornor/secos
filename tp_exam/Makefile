@@ -3,4 +3,4 @@
 include ../utils/config.mk
 objects += tp.o
 include ../utils/rules.mk
-#-include $(dependencies)
+# include $(dependencies)
